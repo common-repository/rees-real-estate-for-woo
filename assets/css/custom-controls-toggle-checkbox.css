@@ -1,0 +1,53 @@
+.woore-real-estate-search-toggle-checkbox-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.woore-real-estate-search-toggle-checkbox {
+  position: relative;
+  display: inline-block;
+  min-height: 18px;
+  width: 40px;
+}
+.woore-real-estate-search-toggle-checkbox input[type=checkbox] {
+  display: none;
+}
+.woore-real-estate-search-toggle-checkbox span:before {
+  display: block;
+  position: absolute;
+  content: "";
+  z-index: 1;
+  transform: none;
+  border: none;
+  top: 0;
+  background: rgba(0, 0, 0, 0.05);
+  box-shadow: none;
+  width: 40px;
+  height: 18px;
+  border-radius: 500rem;
+}
+.woore-real-estate-search-toggle-checkbox span:after {
+  background: #fff linear-gradient(transparent, rgba(0, 0, 0, 0.05));
+  position: absolute;
+  content: "" !important;
+  opacity: 1;
+  z-index: 2;
+  border: none;
+  box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15), 0 0 0 1px rgba(34, 36, 38, 0.15) inset;
+  width: 18px;
+  height: 18px;
+  top: 0;
+  left: 0;
+  border-radius: 500rem;
+  transition: background 0.3s ease, left 0.3s ease;
+}
+.woore-real-estate-search-toggle-checkbox input:checked + span:after {
+  left: 22px;
+  background: #fff;
+}
+.woore-real-estate-search-toggle-checkbox input:checked + span:before {
+  background: #2271b1;
+}
+
+/*# sourceMappingURL=custom-controls-toggle-checkbox.css.map */

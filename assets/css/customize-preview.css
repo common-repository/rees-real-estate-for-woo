@@ -1,0 +1,46 @@
+li#accordion-section-woore_search_customizer_input_search,
+li#accordion-section-woore_search_customizer_bathrooms_search,
+li#accordion-section-woore_search_customizer_bedrooms_search,
+li#accordion-section-woore_search_customizer_country_search,
+li#accordion-section-woore_search_customizer_states_search,
+li#accordion-section-woore_search_customizer_cities_search,
+li#accordion-section-woore_search_customizer_neighborhoods_search,
+li#accordion-section-woore_search_customizer_feature_search,
+li#accordion-section-woore_search_customizer_button_search,
+li#accordion-section-woore_search_customizer_price_search,
+li#accordion-section-woore_search_customizer_size_search {
+  display: none !important;
+}
+
+.woore-real-estate-search-customize-range {
+  display: flex;
+  justify-content: space-between;
+}
+
+.woore-real-estate-search-customize-range .vi-ui.range .inner .thumb {
+  width: 10px;
+  height: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.woore-real-estate-search-customize-range-value {
+  width: 40px !important;
+  text-align: center !important;
+  border-radius: 10px !important;
+  padding: 0 !important;
+}
+
+input.woore-real-estate-search-customize-range-value::-webkit-outer-spin-button,
+input.woore-real-estate-search-customize-range-value::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin-right: 0 !important;
+}
+
+.woore-real-estate-search-customize-range-min-max {
+  max-width: 85%;
+  display: flex;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=customize-preview.css.map */

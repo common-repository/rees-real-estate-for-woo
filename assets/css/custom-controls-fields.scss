@@ -1,0 +1,132 @@
+#customize-theme-controls .customize-pane-child {
+  min-height: 100%;
+}
+
+li.woore-real-estate-search-control-processing {
+  display: none;
+  position: absolute;
+  top: 75px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(255,255,255,0.7);
+  z-index: 99999999999;
+}
+
+.woore-real-estate-search-container {
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+  align-items: center;
+  * {
+    box-sizing: border-box;
+  }
+
+  .woore-real-estate-search-place-holder {
+    height: 30px;
+    width: 100%;
+    line-height: 30px;
+    background: #fff;
+    border: 1px dashed #8c8f94;
+  }
+}
+
+#woore-real-estate-search-container-banner-search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  > span {
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+}
+
+.woore-real-estate-search-item {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding: 8px;
+  background: #fff;
+  border: 1px solid #8c8f94;
+  border-radius: 4px;
+  box-sizing: border-box;
+  opacity: 0.6;
+  cursor: move;
+  &.woore-real-estate-search-item__active {
+    opacity: 1;
+    &:hover {
+      .dashicons {
+        &.dashicons-visibility {
+          display: block;
+        }
+        &.dashicons-hidden {
+          display: none;
+        }
+      }
+    }
+  }
+  &:hover {
+    .dashicons {
+      display: block;
+    }
+  }
+
+  .dashicons {
+    display: none;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    &.dashicons-edit {
+      right: 32px;
+    }
+
+    &.dashicons-visibility {
+      display: none;
+      right: 8px;
+    }
+
+    &.dashicons-hidden {
+      right: 8px;
+    }
+
+  }
+}
+
+.woore-real-estate-search-cancel-sortable {
+  &.woore-real-estate-search-item__active {
+    &:hover {
+      .dashicons {
+        &.dashicons-visibility, &.dashicons-hidden {
+          display: none !important;
+        }
+      }
+    }
+  }
+}
+
+.rtl {
+  .woore-real-estate-search-item {
+
+    .dashicons {
+      &.dashicons-edit {
+        left: 32px;
+        right: unset;
+      }
+
+      &.dashicons-visibility {
+        display: none;
+        left: 8px;
+        right: unset;
+      }
+
+      &.dashicons-hidden {
+        left: 8px;
+        right: unset;
+      }
+
+    }
+  }
+}

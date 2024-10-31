@@ -1,0 +1,161 @@
+$xs: 576px !default;
+$sm: 768px !default;
+$md: 992px !default;
+$lg: 1200px !default;
+$color-blue: #0073aa !default;
+
+@mixin media-breakpoint-up($breakpoint) {
+  @media (min-width: $breakpoint) {
+    @content
+  }
+}
+
+@mixin media-breakpoint-between($breakpoint-min, $breakpoint-max) {
+  @media (min-width: $breakpoint-min) and (max-width: $breakpoint-max - 1) {
+    @content
+  }
+}
+
+// Form
+.vi-hui {
+  &.form {
+    position: relative;
+    width: 100%;
+
+    .field {
+      width: 100%;
+
+      > label {
+        display: block;
+        margin: 0em 0em 0.28571429rem 0em;
+        color: rgba(0, 0, 0, 0.87);
+        font-size: 0.92857143em;
+        font-weight: bold;
+        text-transform: none;
+      }
+    }
+
+    input {
+      height: auto;
+      width: 100%;
+      vertical-align: top;
+
+      font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      margin: 0em;
+      outline: none;
+      -webkit-appearance: none;
+      -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+      line-height: 1.21428571em;
+      padding: 10px;
+      font-size: 1em;
+      background: #FFFFFF;
+      border: 1px solid rgba(34, 36, 38, 0.15);
+      color: rgba(0, 0, 0, 0.87);
+      border-radius: 0.28571429rem;
+      box-shadow: 0em 0em 0em 0em transparent inset;
+      transition: color 0.1s ease, border-color 0.1s ease;
+      box-sizing: border-box;
+
+      &:focus {
+        border-color: #85B7D9;
+        background: #FFFFFF;
+        color: rgba(0, 0, 0, 0.8);
+        box-shadow: none;
+      }
+    }
+
+    select {
+      display: block;
+      height: auto;
+      width: 100%;
+      background: #FFFFFF;
+      border: 1px solid rgba(34, 36, 38, 0.15);
+      border-radius: 0.28571429rem;
+      box-shadow: 0em 0em 0em 0em transparent inset;
+      padding: 10px;
+      line-height: 1.21428571em;
+      font-size: 1em;
+      color: rgba(0, 0, 0, 0.87);
+      transition: color 0.1s ease, border-color 0.1s ease;
+      font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      -webkit-appearance: button;
+    }
+
+  }
+}
+
+//Grid
+.vi-hui {
+  &.vi-hui-c {
+    position: relative;
+    display: block;
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 16px;
+  }
+
+  &.vi-hui-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -8px;
+    margin-right: -8px;
+  }
+
+  &.vi-hui-col {
+    display: flex;
+    padding-left: 8px;
+    padding-right: 8px;
+    box-sizing: border-box;
+
+    &.s-12 {
+      flex: 1 0 100%;
+      width: 100%;
+    }
+  }
+}
+
+.woore-single-property-area {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid #ededed;
+
+  &-header {
+    margin-bottom: 24px;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+}
+
+.woore-calculator {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 16px;
+  margin-bottom: 16px;
+  border: 1px solid #dedede;
+  border-radius: 4px;
+
+  .woore-calculator-money {
+    width: 100%;
+    text-align: center;
+
+    span {
+      strong {
+        color: #333;
+        font-size: 32px;
+        font-weight: 600;
+      }
+    }
+  }
+
+}
+@include media-breakpoint-up($sm) {
+  .vi-hui {
+    &.vi-hui-col {
+      &.sm-6 {
+        flex: 1 0 50%;
+        width: 50%;
+      }
+    }
+  }
+}

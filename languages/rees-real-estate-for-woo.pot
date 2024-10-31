@@ -1,0 +1,1767 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: REES - Real Estate for Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-06 04:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: rees-real-estate-for-woo"
+
+#. %1$s is a placeholder for post's title, %2$s is a placeholder for post's ID.
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:208
+#, php-format
+msgid "%1$s (ID: %2$s)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:163
+msgid "+ Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:39
+msgid "1 year"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:502
+msgid ""
+"1, Visit <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"page</a> to sign up for an API key pair with your Gmail account"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:505
+msgid "2, Choose reCAPTCHA v2 checkbox "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:508
+msgid "2, Choose reCAPTCHA v3"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:510
+msgid "3, Fill in authorized domains"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:511
+msgid "4, Accept terms of service and click Register button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:512
+msgid "5, Copy and paste the site and secret key into the above field"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:338
+msgid "Accounting"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-file-attachment.php:13
+msgid "Action"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:74
+msgid "Add File"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:106
+msgid "Add Floor"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:58
+msgid "Add New Feature"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:27
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:154
+msgid "Add Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:14
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:152
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:84
+msgid "Additional Details"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:404
+msgid "Additional message is as follows."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:322
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:9
+msgid "Address"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:4
+msgid "address"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:138
+msgid "Admin Contact"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:246
+msgid "Advance"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:30
+msgid "After Price Label"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:339
+msgid "Airport"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:54
+msgid "All Features"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:340
+msgid "Amusement Park"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:341
+msgid "Aquarium"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:342
+msgid "Atm"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:82
+msgid "Auto Rotation:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:412
+msgid "Background"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:343
+msgid "Bakery"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:344
+msgid "Bank"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:345
+msgid "Bar"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:48
+msgid "Basic Control Buttons:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-customizer-control-field.php:34
+msgid "Basic Search"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:110
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:111
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-overview.php:37
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:119
+msgid "Bathrooms"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:346
+msgid "Beauty Salon"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:120
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:121
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-overview.php:30
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:103
+msgid "Bedrooms"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:347
+msgid "Bicycle Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:348
+msgid "Book Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:468
+msgid "Border Color"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:445
+msgid "Border Style"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:427
+msgid "Border Width (px)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:349
+msgid "Bowling Alley"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Build stunning real estate websites with REES - Real Estate for WooCommerce. "
+"Property templates, Google Maps, virtual tours & more!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:350
+msgid "Bus Station"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:308
+msgid "Button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:127
+msgid "Button Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:351
+msgid "Cafe"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:13
+msgid "Calculation"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:352
+msgid "Campground"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:385
+msgid "Captcha Invalid"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:353
+msgid "Car Rental"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:354
+msgid "Car Repair"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:355
+msgid "Car Wash"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:356
+msgid "Casino"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:357
+msgid "Cemetery"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:30
+msgid "Change Media"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:34
+msgid "Choose destination"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:43
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:44
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:65
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:65
+msgid "Choose file"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:20
+msgid "Choose Image"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:68
+msgid "Choose Measurement units for Land Area"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:38
+msgid "Choose Measurement units for Property Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:19
+msgid "Choose Video"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:358
+msgid "Church"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:148
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:149
+msgid "Cities"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:31
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:20
+msgid "City / Town"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:359
+msgid "City Center"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:89
+msgid "Click here"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:360
+msgid "Clothing Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:393
+msgid "Color"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:206
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:493
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:609
+msgid "Column Width Desktop (%)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:242
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:529
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:645
+msgid "Column Width Mobile (%)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:224
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:511
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:627
+msgid "Column Width Tablet (%)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:102
+msgid "Component position on single product page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:329
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-contact.php:3
+msgid "Contact"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:56
+msgid "Continue"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:361
+msgid "Convenience Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:172
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:420
+msgid "Copy"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:130
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:131
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:17
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:32
+msgid "Country"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:362
+msgid "Courthouse"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:129
+msgid "Create Tour"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:297
+msgid "Custom Unit"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:20
+msgid "Cycling"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:484
+msgid "Dark"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:450
+msgid "Dashed"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:245
+msgid "Default Map Zoom"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:47
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:66
+msgid "Delete"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:44
+msgid "Delete Hotspot"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:38
+msgid "Delete Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:363
+msgid "Dentist"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:364
+msgid "Department Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:53
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:43
+msgid "Deposit"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:23
+msgid "Deposit (10%)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:54
+msgid "Deposit (Infinity%)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/models/rees-product-real-estate.php:174
+msgid "Deposit:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:42
+msgid "Description"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:217
+msgid "Design"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:42
+msgid "Dimension"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:313
+msgid "Distance"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:302
+msgid "Distance Units"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:29
+msgid "Do you want to delete this hotspot?"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:28
+msgid "Do you want to delete this scene?"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:365
+msgid "Doctor"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:451
+msgid "Dotted"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:93
+msgid ""
+"Drag the google map marker to point your property location. You can also use "
+"the address field above to search for your property"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:17
+msgid "Driving"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-customizer-control-field.php:42
+msgid "Edit Component"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:55
+msgid "Edit Feature"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:366
+msgid "Electrician"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:367
+msgid "Electronics Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-contact.php:73
+msgid "Email Address"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:368
+msgid "Embassy"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:432
+msgid "Enable"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:318
+msgid "Enable Nearby Places"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:324
+msgid "Enable Nearby Places on single property page?"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:439
+msgid ""
+"Enable to use reCAPTCHA in the Contact form when users contact the property "
+"admin"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:291
+msgid "Enable Travel Time"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:46
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:78
+msgid "Enter Custom Unit"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:101
+msgid "Enter your search..."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:25
+msgid "Error"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:369
+msgid "Establishment"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:123
+msgid "Example value: 2."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:16
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:75
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:69
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:70
+msgid "Example value: 2000."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:107
+msgid "Example value: 4."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:15
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:57
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:58
+msgid "Example value: Ground Floor"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:34
+msgid "Example value: Per Month"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:90
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:111
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:135
+msgid "Extra Large"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:86
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:107
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:131
+msgid "Extra Small"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:43
+msgid "Facebook"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:30
+msgid "Fax Number"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:166
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:167
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:323
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:52
+msgid "Feature"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-feature.php:5
+msgid "feature"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:51
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:60
+msgid "Features"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:82
+msgid "Fields Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:331
+msgid "File Attachment"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-file-attachment.php:4
+msgid "file attachment"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:131
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:6
+msgid "File Attachments"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:33
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:60
+msgid "File name"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:16
+msgid "File URL"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:370
+msgid "Finance"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:38
+msgid "Find Location"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:371
+msgid "Fire Station"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:58
+msgid "First Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:10
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:15
+msgid "Floor"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:12
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:55
+msgid "Floor Name"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:11
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:34
+msgid "Floor Plan Image"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:328
+msgid "Floor Plans"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-floor-plans.php:3
+msgid "floor plans"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:13
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-floors-plan.php:67
+msgid "Floor Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:124
+msgid "Floors Plan"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:372
+msgid "Florist"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:373
+msgid "Food"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:19
+msgid "For Rent"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:18
+msgid "For Sale"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:68
+msgid "Form Fields"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:13
+msgid "From"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:57
+msgid "Full address"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-contact.php:61
+msgid "Full Name"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:374
+msgid "Gas Station"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:8
+msgid "General"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:44
+msgid "General Settings"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:496
+msgid "Get Google reCAPTCHA V2 Site and Secret key"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:499
+msgid "Get Google reCAPTCHA V3 Site and Secret key"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:221
+msgid "Go to search design page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:10
+msgid "Google Map"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:230
+msgid "Google Maps API KEY"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:15
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:375
+msgid "Grocery"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:491
+msgid "Guide"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:376
+msgid "Gym"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:377
+msgid "Hair Care"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:378
+msgid "HardwareStore"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:379
+msgid "Health"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-contact.php:80
+msgid "Hello, I am interested in "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:240
+msgid "here"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-customizer-control-field.php:44
+msgid "Hide Component"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:294
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:582
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:697
+msgid "Hide On Desktop"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:260
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:548
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:663
+msgid "Hide On Mobile"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:277
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:565
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:680
+msgid "Hide On Tablet"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:380
+msgid "Home Goods Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:381
+msgid "Hospital"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:174
+msgid "Hotspot"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:38
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:63
+msgid "http://"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/rees-real-estate-for-woo/"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:325
+msgid "Icon"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:371
+msgid "Icon size (px)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:326
+msgid "Icon Text"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:175
+msgid ""
+"If shortcode is duplicated, please use this shortcode to remove the "
+"duplicated shortcode:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:302
+msgid "In description tab"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:301
+msgid "In product tabs"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:37
+msgid "Initial Zoom"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-video.php:23
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-video.php:24
+msgid "Input only URL. YouTube, Vimeo or your video."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:166
+msgid "Input Search"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:103
+msgid "Input Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:44
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:65
+msgid "Insert file URL"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:59
+msgid "Instagram"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:391
+msgid "Interest rate"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:56
+msgid "Interest rate in %"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:382
+msgid "Jewelry Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:305
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:309
+msgid "Kilometer"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:178
+msgid "Label"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:151
+msgid "Labels"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:221
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:222
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-overview.php:23
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:71
+msgid "Land Area"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:89
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:110
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:134
+msgid "Large"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:383
+msgid "Laundry"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:384
+msgid "Lawyer"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:385
+msgid "Library"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:485
+msgid "Light"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:51
+msgid "LinkedIn"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:317
+msgid "List style"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:117
+msgid "Location"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:386
+msgid "Lodging"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:86
+msgid "Map"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:272
+msgid "Map Marker Icon"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:383
+msgid "Max Price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:388
+msgid "Max Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:53
+msgid "Measurement units for Land Area"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:23
+msgid "Measurement units for Property Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:88
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:109
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:133
+msgid "Medium"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:413
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:296
+msgid "Meter (m2)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:306
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:310
+msgid "Mile"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:382
+msgid "Min Price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:387
+msgid "Min Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:26
+msgid "Mobile"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:330
+msgid "Mortgage Calculator"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:380
+msgid "Mortgage calculator"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:4
+msgid "mortgage calculator"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:387
+msgid "Movie Theater"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:388
+msgid "Moving Company"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-file-attachment.php:12
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:11
+msgid "Name"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:12
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:327
+msgid "Nearby Places"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-nearby-places.php:5
+msgid "nearby places"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:344
+msgid "Nearby places distance in"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:359
+msgid "Nearby Places Field"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:38
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:45
+msgid "Neighborhood"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:157
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:158
+msgid "Neighborhoods"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:59
+msgid "New Feature Name"
+msgstr ""
+
+#. %1$s is a placeholder for sender's name, %2$s is a placeholder for site name
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:395
+#, php-format
+msgid "New message sent by %1$s using contact form at %2$s"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:389
+msgid "Night Club"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:45
+msgid "None"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:17
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-nearby-places.php:28
+msgid "Not Found"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:313
+msgid "Nothing Found"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:91
+msgid "Number of Property's rooms"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:401
+msgid "Number of Repayment year"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:300
+msgid "On product tabs"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:82
+msgid "Only 2 hierarchies are allowed for taxonomy "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:41
+msgid "Opacity Zoom"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:54
+msgid "Open on Google Maps"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:121
+msgid "Order of components"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:321
+msgid "Overview"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-overview.php:3
+msgid "overview"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:390
+msgid "Park"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:18
+msgid "per month"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:391
+msgid "Pharmacy"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-contact.php:67
+msgid "Phone Number"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:399
+msgid "Phone Number : "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:55
+msgid "Pinterest"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:36
+msgid "Pitch Limit"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:392
+msgid "Place Of Worship"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:192
+msgid "Placeholder"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:152
+msgid "Please add scenes before creating a tour"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:284
+msgid ""
+"Please choose the appropriate size for your icon (The default icon's current "
+"size is 52x70)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:50
+msgid "Please enter you Email!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:48
+msgid "Please enter your Full Name!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:52
+msgid "Please enter your Message!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:49
+msgid "Please enter your Phone!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:55
+msgid "Please wait ..."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:393
+msgid "Plumber"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:394
+msgid "Police"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:395
+msgid "Post Office"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:45
+msgid "Postal code / ZIP"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:146
+msgid "Preview"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:37
+msgid "Preview Image Message:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:189
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:190
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:417
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:13
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:481
+msgid "Price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:381
+msgid "Price Range:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:23
+msgid "Profile Info"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:314
+msgid "Prominence"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:123
+msgid "Property Information"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:83
+msgid "Property Location at Google Map"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:402
+msgid "Property Url: "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:24
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:8
+msgid "Province / State"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:329
+msgid "Rank by"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:3
+msgid "Real Estate for WooCommerce Settings"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:96
+msgid "Real Estate product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:449
+msgid "reCAPTCHA v2"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:450
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-admin.php:26
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-admin.php:27
+msgid "REES"
+msgstr ""
+
+#. Name of the plugin
+msgid "REES - Real Estate for Woo"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:31
+msgid "Remove Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:36
+msgid "Repayment term"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:396
+msgid "Restaurant"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:103
+msgid "Resume Auto-rotation after:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:87
+msgid "Rooms"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:93
+msgid "Rotation Speed and Direction:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:88
+msgid "Satellite"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:46
+msgid "Save"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:522
+msgid "Save Settings"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:172
+msgid "Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:33
+msgid "Scene Default"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:66
+msgid "Scene Fade Duration:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:34
+msgid "Scene image"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:32
+msgid "Scene Name"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:397
+msgid "School"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:9
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:100
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:176
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:416
+msgid "Search"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:419
+msgid "Search Button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:53
+msgid "Search Features"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:52
+msgid "Search Fields"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/rees-real-estate-for-woo.php:123
+msgid "Search Result"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:185
+msgid "Search Result Page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:467
+msgid "Secret Key"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:21
+msgid "Select"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:191
+msgid "Select Result Page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:47
+msgid "SENDING EMAIL, PLEASE WAIT..."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:415
+msgid "Server Error: WordPress mail function failed!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:116
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:117
+msgid ""
+"Set a time after which auto rotation will stop. Assign in milliseconds, "
+"where 1000 milliseconds = 1 second."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:22
+msgid "Set a Tour Preview Image:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:95
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:96
+msgid ""
+"Set a value to determine the speed of rotation. The higher the number, the "
+"faster it will rotate. Positive values will make it rotate clockwise and "
+"negative values will make it rotate anti clockwise"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:22
+msgid "Set as Default:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:40
+msgid "Set Target View"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/rees-real-estate-for-woo.php:178
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-admin.php:37
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-admin.php:38
+msgid "Settings"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:398
+msgid "Shopping Mall"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:411
+msgid "Shortcode "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:163
+msgid "Shortcode Search"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-customizer-control-field.php:43
+msgid "Show Component"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:456
+msgid "Site Key"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:205
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:206
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:418
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-overview.php:16
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:597
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:55
+msgid "Size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:59
+msgid "Size is floor area of a property."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:386
+msgid "Size Range:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:34
+msgid "Skype"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:87
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:108
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:132
+msgid "Small"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:40
+msgid "Social Profiles"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:449
+msgid "Solid"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/frontend/rees-search-frontend.php:314
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:128
+msgid "Sorry, you are not allowed to edit this user."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:399
+msgid "Spa"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:295
+msgid "Square Feet (SqFt)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:400
+msgid "Stadium"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:139
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:140
+msgid "States"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:114
+msgid "Stop Auto-rotation after:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:401
+msgid "Storage"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:402
+msgid "Store"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-address.php:90
+msgid "Street view"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:84
+msgid "Style for File Attachement"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:255
+msgid "Style for Google Map"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-contact.php:97
+msgid "Submit"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:403
+msgid "Subway Station"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:23
+msgid "Success"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:404
+msgid "Synagogue"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:318
+msgid "Table style"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:379
+msgid "Target Email address is not properly configured!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:39
+msgid "Target Scene"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:405
+msgid "Taxi Stand"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:43
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:324
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:339
+msgid "Text"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:353
+msgid "Text size (px)"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:24
+msgid "The changes has been saved"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:478
+msgid "Theme"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:13
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:14
+msgid "This is the name of the file attachment shown to the customer."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:18
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-file-attachments.php:19
+msgid ""
+"This is the URL or absolute path to the file which customers will get access "
+"to"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:56
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:57
+msgid ""
+"This option will display Zoom In, Zoom Out and Full Screen buttons on the "
+"tour."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:70
+msgid "This will set the scene fade effect and execution time."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:35
+msgid "Title"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:89
+msgid "to add your Google Maps API key and enable this feature."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:267
+msgid "to create styles"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:7
+msgid "Tour Autoload:"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:15
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:16
+msgid "Tour Preview Image will appear if this is turned off."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:406
+msgid "Train Station"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:18
+msgid "Transit"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:407
+msgid "Travel Agency"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:324
+msgid "Travel Time"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:5
+msgid "travel time"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:57
+msgid "Try Again"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:236
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:237
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:320
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:12
+msgid "Type"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:408
+msgid "University"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:57
+msgid "Update Feature"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-video.php:31
+msgid "Upload video"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:266
+msgid "Use"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:444
+msgid "Version"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:409
+msgid "Veterinary Care"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:325
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:145
+msgid "Video"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-video.php:3
+msgid "video"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-video.php:8
+msgid "Video Image"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-video.php:21
+msgid "Video URL"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:56
+msgid "View Feature"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:67
+msgid "Vimeo"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:326
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-builder.php:138
+msgid "Virtual Tour"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-virtual-tour.php:4
+msgid "virtual tour"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-travel-time.php:19
+msgid "Walking"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/admin/rees-setting.php:238
+msgid ""
+"We strongly encourage you to get an APIs Console key. You can get it from"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:105
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-virtual-tour.php:106
+msgid ""
+"When someone clicks on the tour, auto-rotation stops. Here, set a time after "
+"which auto rotation will start again. Assign in milliseconds, where 1000 "
+"milliseconds = 1 second"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/customizer/rees-search-customizer.php:38
+msgid "WooCommerce Real Estate Search"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:47
+msgid "X"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-overview.php:9
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-basic-information.php:135
+msgid "Year Built"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/templates/rees-mortgage-calculator.php:45
+msgid "years"
+msgstr ""
+
+#. %1$s is a placeholder for sender's name, %2$s is a placeholder for sender's email
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:407
+#, php-format
+msgid "You can contact %1$s via email %2$s"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:26
+msgid "You can not create a hotspot with target scene to itself"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-content.php:397
+msgid "You have received a message from: "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/i18n.php:51
+msgid "Your Email address is not Valid!"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/rees-admin-profile.php:63
+msgid "Youtube"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/views/real-estate/rees-location.php:69
+msgid "Zip"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/rees-real-estate-for-woo/rees-real-estate-for-woo/inc/data.php:410
+msgid "Zoo"
+msgstr ""

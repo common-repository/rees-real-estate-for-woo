@@ -1,0 +1,10 @@
+/*!
+ * # Semantic UI 2.5.0 - Icon
+ * http://github.com/semantic-org/semantic-ui/
+ *
+ *
+ * Released under the MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */
+@font-face{font-family:"Icons";src:url(../fonts/icons.eot);src:url(../fonts/icons.eot?#iefix)format("embedded-opentype"),url(../fonts/icons.woff2)format("woff2"),url(../fonts/icons.woff)format("woff"),url(../fonts/icons.ttf)format("truetype"),url(../fonts/icons.svg#icons)format("svg");font-style:normal;font-weight:400;font-variant:normal;text-decoration:inherit;text-transform:none}i.icon{display:inline-block;opacity:1;margin:0 .25rem 0 0;width:1.18em;height:1em;font-family:"Icons";font-style:normal;font-weight:400;text-decoration:inherit;text-align:center;speak:none;font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;-webkit-backface-visibility:hidden;backface-visibility:hidden}i.icon:before{background:0 0!important}i.icon.remove:before{content:""}i.icon.save:before{content:""}i.icon.close:before,i.icon.delete:before{content:""}i.icon.caret.right:before{content:""}i.icon.caret.left:before{content:""}i.icon.caret.up:before{content:""}i.icon.caret.down:before,i.icon.dropdown:before{content:""}i.icon.book:before{content:""}i.icon.star:before{content:""}i.icon.users:before{content:""}i.icon.copy:before{content:""}i.icon.check:before{content:""}i.icon.file.alternate:before{content:""}i.icon.eye:before{content:""}i.icon.eye.slash:before{content:""}

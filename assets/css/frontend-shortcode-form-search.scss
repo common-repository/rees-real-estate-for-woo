@@ -1,0 +1,306 @@
+$xs: 576px !default;
+$sm: 768px !default;
+$md: 992px !default;
+$lg: 1200px !default;
+
+@mixin media-breakpoint-up($breakpoint) {
+  @media (min-width: $breakpoint) {
+    @content
+  }
+}
+
+@mixin media-breakpoint-between($breakpoint-min, $breakpoint-max) {
+  @media (min-width: $breakpoint-min) and (max-width: $breakpoint-max - 1) {
+    @content
+  }
+}
+
+.woore-real-estate-search-page {
+  &.woore-real-estate-search-page__customize {
+    .vi-hui-form {
+      .vi-hui-fields {
+        > .vi-hui-field,
+        .woore_form_search_fields {
+          position: relative;
+          .woore-real-estate-search-edit-item-shortcut {
+            display: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 9999999999;
+            outline: 1px solid #0b93f6;
+            border: 1px solid #0b93f6;
+            outline-offset: 4px;
+
+            &:before {
+              font-family: dashicons;
+              content: "\f464";
+              display: inline-block;
+              position: absolute;
+              top: 0;
+              right: 0;
+              line-height: 1;
+              font-weight: 400;
+              font-style: normal;
+              speak: never;
+              text-decoration: inherit;
+              text-transform: none;
+              text-rendering: auto;
+              -webkit-font-smoothing: antialiased;
+              -moz-osx-font-smoothing: grayscale;
+              width: 20px;
+              height: 20px;
+              font-size: 20px;
+              vertical-align: top;
+              text-align: center;
+              background: #0b93f6;
+              color: #fff;
+              cursor: pointer;
+            }
+          }
+
+          &:hover {
+            .woore-real-estate-search-edit-item-shortcut {
+              display: block;
+            }
+          }
+
+          &.woore-real-estate-search-editing {
+            .woore-real-estate-search-edit-item-shortcut {
+              display: block;
+            }
+          }
+
+        }
+      }
+    }
+  }
+
+  .woore_form_search_fields {
+    display: flex;
+    flex-direction: column;
+    .woore_form_search_fields_inputs {
+      display: flex;
+      gap: 12px;
+    }
+    .vi-hui-field {
+      width: 100%;
+      margin: 0;
+    }
+    > label {
+      margin: 0 0 0.28571429rem 0;
+      color: rgba(0, 0, 0, 0.87);
+      font-size: 0.92857143em;
+      font-weight: bold;
+      text-transform: none;
+      text-align: center;
+    }
+  }
+}
+
+.vi-hui-form {
+  * {
+    box-sizing: border-box;
+  }
+
+  .vi-hui-fields {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+
+    .vi-hui-field {
+      clear: both;
+      margin: 0;
+    }
+
+    > .vi-hui-field {
+      flex: 0 1 auto;
+      &:first-child {
+        border-left: none;
+        box-shadow: none;
+      }
+    }
+  }
+
+  .vi-hui-field {
+    clear: both;
+    margin: 0 0 1em;
+
+    > label {
+      display: block;
+      margin: 0 0 0.28571429rem 0;
+      color: rgba(0, 0, 0, 0.87);
+      font-size: 0.92857143em;
+      font-weight: bold;
+      text-transform: none;
+      text-align: center;
+    }
+
+  }
+
+
+  input[type="text"],
+  input[type="number"] {
+    width: 100%;
+    vertical-align: top;
+    text-overflow: ellipsis;
+    height: auto;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    margin: 0em;
+    outline: none;
+    -webkit-appearance: none;
+    tap-highlight-color: rgba(255, 255, 255, 0);
+    line-height: 1.375em;
+    padding: 10px 16px;
+    font-size: 16px;
+    background: #FFFFFF;
+    border: 1px solid rgba(34, 36, 38, 0.15);
+    color: rgba(0, 0, 0, 0.87);
+    border-radius: 4px;
+    box-shadow: 0em 0em 0em 0em transparent inset;
+    transition: color 0.1s ease, border-color 0.1s ease;
+    &:focus {
+      color: rgba(0, 0, 0, 0.95);
+      border-color: #85B7D9;
+      border-radius: 0.28571429rem;
+      background: #FFFFFF;
+      box-shadow: 0px 0em 0em 0em rgba(34, 36, 38, 0.35) inset;
+    }
+  }
+
+  select {
+    display: block;
+    height: auto;
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid rgba(34, 36, 38, 0.15);
+    border-radius: 0.28571429rem;
+    box-shadow: 0em 0em 0em 0em transparent inset;
+    padding: 10px 16px;
+    color: rgba(0, 0, 0, 0.87);
+    transition: color 0.1s ease, border-color 0.1s ease;
+  }
+}
+
+.vi-hui-button {
+  background: transparent;
+  border-radius: 4px;
+  margin: 0 !important;
+  line-height: 1.6 !important;
+  &:hover {
+    background: transparent;
+    color: #666;
+  }
+  i {
+    top: unset;
+    vertical-align: unset;
+  }
+}
+#woore-real-estate-search-products {
+  margin-left: 0;
+  margin-bottom: 0;
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+  .woore-real-estate-search-product {
+    margin-left: 0;
+    margin-bottom: 4.235801032em;
+    text-align: center;
+    position: relative;
+  }
+}
+
+.vi-hui-range-slider {
+  position: relative;
+  width: 100%;
+}
+
+#woore-real-estate-search-pagination {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  list-style-type: none;
+  margin: 0;
+
+  li {
+    padding: 0.3342343017em 0.875em;
+    background: rgba(0,0,0,.025);
+    cursor: pointer;
+    &:hover {
+      &:not(.woore-real-estate-search-current-page){
+        background: rgba(0,0,0,.05);
+      }
+    }
+  }
+
+  .woore-real-estate-search-current-page {
+    background-color: #e6e6e6;
+    color: #636363;
+  }
+}
+
+#woore-real-estate-search-not-found {
+  display: none;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  p:first-child{
+    margin-bottom: 16px;
+    font-size: 42px;
+    color: #333;
+  }
+}
+
+@include media-breakpoint-up($xs) {
+
+  .woore-real-estate-search-page {
+    .woore_form_search_fields {
+
+      .woore_form_search_fields_inputs {
+        .vi-hui-field {
+          flex: 1;
+          margin: 0;
+        }
+      }
+    }
+  }
+
+}
+
+@include media-breakpoint-up($sm) {
+  #woore-real-estate-search-products {
+    .woore-real-estate-search-product {
+      width: 29.4117647059%;
+      float: left;
+      margin-right: 5.8823529412%;
+      &.first {
+        clear: both !important;
+      }
+      &.last {
+        margin-right: 0 !important;
+      }
+    }
+  }
+}
+/*CSS Theme*/
+#woore-real-estate-search-products {
+  .product-inner.animation {
+    opacity: 1;
+  }
+  .et-quickview-btn.et-tooltip.product_type_real-estate {
+    left: 0;
+  }
+}
+.et-qv-summary-top {
+  .price {
+    display: block !important;
+    float: unset !important;
+  }
+}

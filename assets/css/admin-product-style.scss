@@ -1,0 +1,915 @@
+.form-row {
+  select {
+    height: 30px !important;
+    width: 100% !important;
+    max-width: 100%;
+  }
+  input[type=text],
+  input[type=number],
+  select {
+    padding: 0 5px !important;
+  }
+}
+
+
+.woore-mt16{
+  margin-top: 16px !important;
+}
+.woore-mb0{
+  margin-bottom: 0 !important;
+}
+.woore-mtb0{
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.woore-mb16{
+  margin-bottom: 16px !important;
+}
+
+.woore-w100 {
+  width: 100% !important;
+}
+
+.woore-hidden-field {
+  display: none !important;
+}
+
+.woore-segment {
+  position: relative;
+  background: #FFFFFF;
+  margin: 1rem 0em;
+  padding: 1em 1em;
+  border-radius: 0.28571429rem;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+}
+
+.vi-hui.woore-button-icon {
+  display: inline-flex;
+  align-items: center;  background: #2271b1;
+  color: #fff;
+
+  &:hover {
+    background-color: #1678c2;
+    color: #FFFFFF;
+    text-shadow: none;
+  }
+}
+
+.vi-hui-message {
+  padding: 8px;
+  text-align: center;
+  background: #aed3ef;
+  border-radius: 4px;
+  strong {
+    color: #2271b1;
+  }
+}
+
+/*Modal*/
+.vi-hui.vi-hui-modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 99999;
+  display: none;
+
+  .vi-hui-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100000;
+    background: rgba(0, 0, 0, 0.4);
+  }
+
+  #vi-hui-toast {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    z-index: 100002;
+  }
+
+  .vi-hui-toast {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 250px;
+    padding: 8px 12px;
+    background: #fff;
+    border-radius: 2px;
+    transition: all linear .3s;
+
+    + .vi-hui-toast {
+      margin-top: 16px;
+    }
+
+    .vi-hui-toast-icon {
+      .dashicons {
+        height: 24px;
+        width: 24px;
+        font-size: 24px;
+      }
+    }
+
+    .vi-hui-toast-body {
+      flex-grow: 1;
+      .vi-hui-toast-body-header {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+
+      .vi-hui-toast-body-info {
+        color: #888;
+      }
+
+    }
+
+    &.vi-hui-toast__success {
+      border-left: 4px solid #0ea432;
+      .vi-hui-toast-icon {
+        .dashicons {
+          color: #0ea432;
+        }
+      }
+    }
+
+    &.vi-hui-toast__error {
+      border-left: 4px solid #b32d2e;
+      .vi-hui-toast-icon {
+        .dashicons {
+          color: #b32d2e;
+        }
+      }
+    }
+    
+    .vi-hui-toast-close {
+      cursor: pointer;
+    }
+
+  }
+
+  .modal-content {
+    position: absolute;
+    z-index: 100001;
+    top: 50%;
+    left: 50%;
+    width: calc(100% - 32px);
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    background: #f6f6f6;
+    border-radius: 4px;
+
+    > i {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      height: 1.5em;
+      font-size: 22px;
+      cursor: pointer;
+      z-index: 2;
+
+      &:hover {
+        color: #000;
+      }
+    }
+
+    .vi-hui-modal-body {
+      display: flex;
+      justify-content: center;
+
+    }
+
+  }
+
+}
+
+.woore-product-page-wrapper {
+  padding: 0 2em;
+  border-top: 1px solid #ededed;
+}
+
+/*Basic Information*/
+#woore-basic-info-panel {
+  display: block !important;
+  width: 100% !important;
+  p.form-field {
+    padding: 0 !important;
+  }
+  .form-row label {
+    margin: 0 !important;
+  }
+
+  .short, input.short {
+    width: 100% !important;
+  }
+  .woocommerce_variable_attributes {
+    border-top: none;
+  }
+}
+
+._woorealestate_price_suffix_field {
+  display: none;
+  &.woore_active {
+    display: block;
+  }
+}
+
+._woorealestate_deposit_field {
+  @extend ._woorealestate_price_suffix_field;
+}
+
+/*Location*/
+.woore-product-page-map {
+  position: relative;
+  height: 500px;
+  background: #dedede;
+
+  .woore-map-canvas {
+    height: 100%;
+    width: 100%;
+  }
+
+  .woore-map-warning {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+
+    span {
+      &:last-child {
+        text-align: center;
+      }
+    }
+  }
+}
+
+.woore-product-page-map + span {
+  font-style: italic;
+}
+
+
+/*Floors Plan*/
+#woore-nearby-places-items > div + div,
+#woore-floor-items > div + div {
+  margin-top: 22px;
+}
+
+.woore-panel-header {
+  display: flex;
+  height: 32px;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  background: #f2f2f2;
+  border: 1px solid rgba(0,0,0, 0.25);
+}
+
+.woore-panel-wrap-icon {
+  display: flex;
+  height: 100%;
+}
+
+.woore-panel-wrap-icon > div {
+  position: relative;
+  display: flex;
+  height: 32px;
+  width: 32px;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.woore-panel-switch > div {
+  height: 11px;
+  width: 2px;
+  background: #555;
+  border-radius: 4px;
+}
+
+.woore-panel-switch > div:first-child {
+  transform: translateX(2px);
+}
+
+.woore-panel-switch > div:last-child {
+  transform: rotate(90deg);
+}
+
+.woore-panel-item {
+  &.active {
+
+    .woore-panel-switch {
+
+      > div:first-child {
+        display: none;
+      }
+
+    }
+
+  }
+}
+
+.woore-panel-content {
+  border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+
+/*File Attachments*/
+#real_estate_file_options {
+  .downloadable_files {
+    padding: 0 9px 0 0;
+    label {
+      position: unset;
+      margin: 0;
+    }
+  }
+}
+
+
+// Video
+
+.woore-video-content {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 16px;
+  width: 100%;
+  &-image {
+    display: flex;
+    .woore-custom-media {
+      margin-top: 2px;
+    }
+  }
+  &-url {
+    display: flex;
+    flex-direction: column;
+    width: calc( 100% - 90px );
+  }
+
+  #woore-video-upload {
+    width: 98px;
+    margin-top: -8px;
+  }
+
+}
+
+//Virtual Tour
+
+.woore-tour-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  min-height: 600px;
+  padding-top: 22px;
+
+  .woore-tour-content {
+    display: flex;
+
+    .woore-tour-sidebar {
+      position: relative;
+      width: 250px;
+      max-height: 600px;
+      height: 100%;
+      transition: width 0.4s ease;
+      overflow-y: auto;
+      overflow-x: hidden;
+
+      .woore-tour-sidebar-header {
+        position: sticky;
+        top: 0;
+        z-index: 99;
+        padding: 0 6px 16px;
+        background: #f6f6f6;
+      }
+
+      .woore-tour-sidebar-content {
+        padding: 6px;
+      }
+
+      .woore-tour-add-scene {
+        .dashicons {
+          line-height: 1;
+          vertical-align: middle;
+          margin: 5px 2px;
+        }
+      }
+    }
+
+    #woore-tour-panorama {
+      min-height: 600px;
+      width: calc(100% - 500px);
+    }
+
+    #woore-target-panorama {
+      height: 180px;
+      width: 100%;
+      border-radius: 4px;
+
+      .pnlm-hot-spot-debug-indicator {
+        display: block !important;
+        background-color: transparent;
+        border: 2px solid #000;
+        border-radius: 50%;
+      }
+    }
+
+    .woore-tour-field-target-view {
+      position: relative;
+      .woore-tour-save-target-view {
+        position: absolute;
+        right: 4px;
+        bottom: 4px;
+        z-index: 9;
+      }
+    }
+  }
+  .woore-tour-field {
+    + .woore-tour-field {
+      margin-top: 8px;
+    }
+  }
+
+  .woore-tour-field.checkbox-field {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .woocommerce-help-tip {
+      margin-left: 0;
+      font-size: 1.4em;
+    }
+  }
+
+  .woore-tour-field.image-field {
+    .woore-custom-media {
+      margin-top: 2px;
+    }
+  }
+
+  .woore-tour-field.input-field {
+    input {
+      width: 100%;
+    }
+    textarea {
+      width: 100%;
+    }
+  }
+
+  .woore-tour-field-title-no-field {
+    font-weight: 600;
+  }
+
+  .woore-custom-media {
+    width: 100%;
+    height: 150px;
+    border: 1px solid rgba(34,36,38,.15);
+    &:before {
+      line-height: 150px;
+    }
+    img {
+      object-fit: cover;
+    }
+  }
+
+  .woore-tour-box-add-scene {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    background: #fff;
+    .woore-tour-box-add-scene-content {
+      text-align: center;
+      p {
+        font-size: 24px;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.pnlm-load-box {
+  display: none !important;
+}
+
+.woore-checkbox {
+  position: relative;
+  display: inline-block;
+  min-height: 18px;
+  width: 40px;
+
+  input {
+    display: none;
+  }
+
+  span {
+    &:before {
+      display: block;
+      position: absolute;
+      content: '';
+      z-index: 1;
+      transform: none;
+      border: none;
+      top: 0;
+      background: rgba(0,0,0,.05);
+      box-shadow: none;
+      width: 40px;
+      height: 18px;
+      border-radius: 500rem;
+    }
+
+    &:after {
+      background: #fff linear-gradient(transparent,rgba(0,0,0,.05));
+      position: absolute;
+      content: ''!important;
+      opacity: 1;
+      z-index: 2;
+      border: none;
+      box-shadow: 0 1px 2px 0 rgba(34,36,38,.15), 0 0 0 1px rgba(34,36,38,.15) inset;
+      width: 18px;
+      height: 18px;
+      top: 0;
+      left: 0;
+      border-radius: 500rem;
+      transition: background .3s ease,left .3s ease;
+    }
+  }
+
+  input:checked + span:after {
+    left: 22px;
+    background: #fff;
+  }
+
+  input:checked + span:before {
+    background: #2271b1;
+  }
+
+}
+
+#woore-tour-preview-button {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  z-index: 99;
+  transform: translateX(-50%);
+  cursor: pointer;
+  .dashicons-arrow-up-alt2 {
+    display: none;
+  }
+}
+
+#woore-tour-preview {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background: #fff;
+  overflow: hidden;
+}
+
+.woore-tour-auto-rotation{
+  max-height: 234px;
+  transition: max-height 0.3s ease;
+  &.collapse {
+    max-height: 39px;
+    overflow: hidden;
+  }
+}
+
+#woore-tour-open-editor {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 108px;
+  height: 60px;
+  position: relative;
+  border-radius: 4px;
+  border: 1px solid #2271b1;
+  color: #2271b1;
+  background: #f6f6f7;
+  cursor: pointer;
+
+  > img {
+    display: none;
+  }
+  .woore-tour-edit-icon {
+    display: none;
+  }
+}
+
+#woore-tour-open-editor.woore-tour-created {
+  border: 1px solid #d5d5d5;
+
+  &:hover {
+    .woore-tour-edit-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  > img {
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  > span {
+    display: none;
+  }
+
+  .woore-tour-edit-icon {
+    display: none;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: #999;
+
+    > span {
+      color: #fff;
+      font-size: 14px;
+      width: 14px;
+      height: 14px;
+    }
+  }
+}
+
+.woore-tour-preview-image {
+  max-height: 272px;
+  transition: max-height 0.3s ease;
+
+  &.collapse {
+    max-height: 39px;
+    overflow: hidden;
+  }
+}
+
+.woore-button-delete {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 2.15384615;
+  min-height: 30px;
+  margin: 0;
+  padding: 0 10px;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  -webkit-appearance: none;
+  border-radius: 3px;
+  white-space: nowrap;
+  box-sizing: border-box;
+  background: #b32d2e;
+  color: #fff;
+}
+
+.woore-tour-scene-list {
+  padding: 6px;
+}
+
+.woore-tour-scene-item {
+  position: relative;
+  height: 100px;
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: pointer;
+
+  &.active {
+    outline: 2px solid #d51bbc;
+    &:hover {
+      outline: 2px solid #d51bbc;
+    }
+  }
+
+  &.default {
+    .woore-icon-scene-default {
+      display: block;
+      position: absolute;
+      top: 4px;
+      left: 4px;
+      z-index: 2;
+      color: #e5a426;
+    }
+  }
+  .woore-icon-scene-default {
+    display: none;
+  }
+
+  &:hover {
+    outline: 2px solid #e5a426;
+  }
+  &:before{
+    display: block;
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+  }
+
+  + .woore-tour-scene-item {
+    margin-top: 8px;
+  }
+
+  .woore-tour-scene-item-controls {
+    display: flex;
+    gap: 8px;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    z-index: 2;
+
+    .woore-tour-scene-item-control {
+      display: flex;
+      align-items: center;
+      padding: 4px;
+      color: #e5a426;
+      background: rgba(0,0,0,0.6);
+      border-radius: 4px;
+      cursor: pointer;
+
+      .dashicons {
+        height: 16px;
+        width: 16px;
+        font-size: 16px;
+      }
+
+    }
+  }
+
+  .woore-tour-scene-item-name {
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    bottom: 8px;
+    margin: 0 4px;
+    input {
+      width: 100%;
+      margin: 0;
+      color: #fff;
+      background: rgba(0,0,0,0.4);
+      &::placeholder {
+        color: #fff;
+      }
+    }
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.woore-tour-sidebar-editor-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 6px;
+  border: 1px solid #ededed;
+  border-radius: 4px;
+  overflow: hidden;
+
+  .woore-tour-sidebar-editor-button {
+    flex: 1;
+    padding: 4px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    &.active {
+      background: #2271b1;
+      color: #fff;
+    }
+  }
+}
+
+.woore-tour-slider-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  .woore-tour-slider {
+    flex: 1;
+    -webkit-appearance: none;
+    height: 2px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background: #2271b1;
+      cursor: pointer;
+    }
+
+    &::-moz-range-thumb {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background: #2271b1;
+      cursor: pointer;
+    }
+  }
+  p {
+    width: 25px;
+    margin-left: 4px;
+  }
+}
+
+#woore-tour-editor-modal {
+  .modal-content {
+    width: 80%;
+
+    i {
+      top: -28px;
+      right: -16px;
+      font-size: 32px;
+      color: #fff;
+    }
+  }
+  .vi-hui-modal-body {
+    display: flex;
+    flex-direction: column;
+    height: 622px;
+    overflow: hidden;
+  }
+}
+
+
+/*Set Icon For Product Tab*/
+
+#woocommerce-product-data ul.wc-tabs li.location_options a::before {
+  font-family: Dashicons;
+  content: "\f230";
+}
+
+#woocommerce-product-data ul.wc-tabs li.floors-plan_options a::before {
+  font-family: Dashicons;
+  content: "\f509";
+}
+
+#woocommerce-product-data ul.wc-tabs li.file-attachment_options a::before {
+  font-family: Dashicons;
+  content: "\f498";
+}
+
+#woocommerce-product-data ul.wc-tabs li.virtual-tour_options a::before {
+  font-family: Dashicons;
+  content: "\f13d";
+}
+
+#woocommerce-product-data ul.wc-tabs li.video_options a::before {
+  font-family: Dashicons;
+  content: "\f236";
+}
+
+#woocommerce-product-data ul.wc-tabs li.nearby-places_options a::before {
+  font-family: Dashicons;
+  content: "\f231";
+}
+
+.rtl {
+  .woore-panel-header {
+    padding-left: 0;
+    padding-right: 10px;
+  }
+
+  .woore-panel-wrap-icon > div {
+    border-left: 0;
+    border-right: 1px solid rgba(0, 0, 0, 0.25);
+  }
+
+  .woore-panel-switch > div:first-child {
+    transform: translateX(-2px);
+  }
+}

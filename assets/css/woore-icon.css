@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'woore-icon';
+    src: url("../fonts/woore-icon.ttf") format("truetype"),
+    url("../fonts/woore-icon.eot") format("embedded-opentype"),
+    url("../fonts/woore-icon.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+}
+
+i.icon {
+    display: inline-block;
+    opacity: 1;
+    width: 1.18em;
+    height: 1em;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    text-align: center;
+    speak: none;
+    font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+i.icon:before {
+    background: none !important;
+}
+
+i.icon[class*="icon-woore-"],
+i.icon[class^="icon-woore-"],
+.icon {
+    font-size: inherit;
+    font-family: 'woore-icon' !important;
+    font-style:normal;
+    line-height: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0em 0.25rem 0em 0em;
+}
+
+i.circular.icon {
+    border-radius: 500em !important;
+    line-height: 32px !important;
+    box-shadow: 0em 0em 0em 0.1em rgba(0, 0, 0, 0.1) inset;
+    width: 32px !important;
+    height: 32px !important;
+}
+i.circular.inverted.icon {
+    border: none;
+    box-shadow: none;
+}
+
+i.inverted.circular.icon {
+    background-color: #1B1C1D !important;
+    color: #FFFFFF !important;
+}
+i.inverted.icon {
+    color: #FFFFFF;
+}
+
+.icon-woore-loation:before { content: "\ea01"; }
+.icon-woore-bed:before { content: "\ea02"; }
+.icon-woore-bath:before { content: "\ea03"; }
+.icon-woore-landarea:before { content: "\ea04"; }
+.icon-woore-expand:before { content: "\ea05"; }
+.icon-woore-chevron-down:before { content: "\ea06"; }
+.icon-woore-search:before { content: "\ea07"; }
+.icon-woore-file:before { content: "\ea08"; }
+.icon-woore-download:before { content: "\ea09"; }
+.icon-woore-print:before { content: "\ea0a"; }
+.icon-woore-chevron-up:before { content: "\ea0b"; }
+.icon-woore-round-check:before { content: "\ea0c"; }
+.icon-woore-close:before { content: "\ea0d"; }
+.icon-woore-eye:before { content: "\ea0e"; }
+.icon-woore-minus:before { content: "\ea0f"; }
+.icon-woore-plus:before { content: "\ea10"; }
+.icon-woore-chervon-left:before { content: "\ea11"; }
+.icon-woore-chervon-right:before { content: "\ea12"; }
+.icon-woore-play:before { content: "\ea13"; }
+.icon-woore-brand-x:before { content: "\ea14"; }
+.icon-woore-brand-facebook:before { content: "\ea15"; }
+.icon-woore-brand-pinterest:before { content: "\ea16"; }
+.icon-woore-brand-instagram:before { content: "\ea17"; }
+.icon-woore-brand-linkedin:before { content: "\ea18"; }
+.icon-woore-brand-youtube:before { content: "\ea19"; }
+.icon-woore-brand-vimeo:before { content: "\ea1a"; }
+.icon-woore-brand-skype:before { content: "\ea1b"; }
+.icon-woore-list:before { content: "\ea1c"; }
+.icon-woore-map:before { content: "\ea1d"; }

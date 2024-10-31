@@ -1,0 +1,9 @@
+/**1.0.2 - 2024.09.13**/
+- Updated: Compatible with WC 9.3.1 and PHP 8.1
+
+/**1.0.1 - 2024.07.19**/
+- Updated: update virtual tour setting
+- Fixed: Get hotspot after remove scene
+
+/**1.0.0 - 2024.05.21**/
+~ The first released.

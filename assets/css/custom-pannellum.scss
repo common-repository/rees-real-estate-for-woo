@@ -1,0 +1,62 @@
+.vi-hui-hotspot {
+  background: transparent url('../img/pannellum/woore-hotpot.png') no-repeat center !important;
+  background-size: cover !important;
+
+  &.pnlm-tooltip span {
+    display: block;
+  }
+
+  &:hover {
+    .vi-hui-border-hotspot {
+      display: block;
+      background-image:
+              linear-gradient(0deg, #66dede, #66dede 25%, transparent 25%, transparent 75%, #66dede 75%),
+              linear-gradient(90deg, #66dede, #66dede 25%, transparent 25%, transparent 75%, #66dede 75%),
+              linear-gradient(180deg, #66dede, #66dede 25%, transparent 25%, transparent 75%, #66dede 75%),
+              linear-gradient(270deg, #66dede, #66dede 25%, transparent 25%, transparent 75%, #66dede 75%);
+    }
+  }
+
+  &.active {
+    .vi-hui-border-hotspot {
+      display: block;
+      background-image: linear-gradient(0deg, #00ffff, #00ffff 25%, transparent 25%, transparent 75%, #00ffff 75%),
+      linear-gradient(90deg, #00ffff, #00ffff 25%, transparent 25%, transparent 75%, #00ffff 75%),
+      linear-gradient(180deg, #00ffff, #00ffff 25%, transparent 25%, transparent 75%, #00ffff 75%),
+      linear-gradient(270deg, #00ffff, #00ffff 25%, transparent 25%, transparent 75%, #00ffff 75%);
+    }
+
+    span {
+      visibility: visible;
+      &::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 0;
+        border-width: 10px;
+        border-style: solid;
+        border-color: rgba(0,0,0,0.7) transparent transparent transparent;
+        bottom: -20px;
+        left: -10px;
+        margin: 0 50%;
+      }
+    }
+
+  }
+
+
+  .vi-hui-border-hotspot {
+    display: none;
+    position: absolute;
+    top: -18px;
+    left: -4px;
+    width: 100%;
+    height: 100%;
+    padding: 4px;
+    line-height: 1;
+    background-position: 0 0, 0 0, 100% 0, 0 100%;
+    background-size: 2px 100%, 100% 2px, 2px 100%, 100% 2px;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+  }
+}
